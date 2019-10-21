@@ -2,6 +2,7 @@
 label {text-decoration: underline}
 .TituloPrincipal {border: 5px double #F04510}
 #TituloIndex {background-color: rgb(185, 252, 252)} */
+#textoEnMovimiento { text-align: center}
 
 body{
   margin: 0%;
